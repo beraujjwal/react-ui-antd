@@ -1,0 +1,1 @@
+export { Popconfirm as AppPopconfirm } from 'antd';
